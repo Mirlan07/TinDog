@@ -1,2 +1,2 @@
-Link to website https://doghtml.herokuapp.com/
+Link to website https://mirlan07.github.io/TinDog/
 
